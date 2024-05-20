@@ -1,3 +1,5 @@
+Este código Python foi desenvolvido no curso de desenvolvimento no Senac e calcula a média aritmética de três notas inseridas pelo usuário. Aqui está uma breve descrição de cada parte:
+
 Este código Python calcula a média aritmética de três notas inseridas pelo usuário. Aqui está uma breve descrição de cada parte:
 
 1. **Função `is_float(input_str)`**: Verifica se a string fornecida pode ser convertida para um número de ponto flutuante (float). Retorna `True` se for possível, caso contrário, `False`.
